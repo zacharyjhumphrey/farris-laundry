@@ -4,6 +4,9 @@
 Create an app to track the amount of time left on loads on laundry in farris
 
 ## Tasks
+### Hardware
+Get 12 cameras that connect to a raspberry pi
+Get enough raspberry pi systems to reach all of the laundry machines
 Create a "holder" device that holds the connected cameras 
 ### Backend
 Design an AI that reads values of laundry machines
